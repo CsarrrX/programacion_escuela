@@ -17,4 +17,6 @@ int main() {
   printf("Temperatura en grados fahrenheit: %.2f\n", fahrenheit);
   printf("Temperatura en grados kelvin: %.2f\n", kelvin);
   printf("La temperatura en fahrenheit es mayor a 32: %d", mayor_32_fahrenheit);
+  
+  return 0;
 }
